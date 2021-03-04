@@ -14,7 +14,7 @@ div#memory_board {
 }
 
 div#memory_board > div {
-	background: url("/img/donde.jpg");
+	background: url("../img/donde.jpg");
 	border: #000 2px solid;
 	border-radius: 10px;
 	width: 100px;
